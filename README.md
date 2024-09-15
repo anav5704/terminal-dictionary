@@ -2,7 +2,7 @@
 
 ![Terminal Dictionary](./docs/terminal-dictionary.png)
 
-This is a simple TUI (terminal user interface) that allows users to search for the definitions of words. The TUI itself is built using various libraries offered by [Charm](https://charm.sh). After entering a search term, the app fetches the definition from teh Urban dictionary API and displays it.
+This is a simple TUI (terminal user interface) that allows users to search for the definitions of words. The TUI itself is built using various libraries offered by [Charm](https://charm.sh). After entering a search term, the app fetches the definition from the Urban dictionary API and displays it.
 
 ## Technologies Used
 
